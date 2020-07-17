@@ -1,0 +1,7 @@
+{
+  "home_page" :  "Home",
+  "raised_button_name" :"Press here",
+  "second_page" :"Second Page",
+  "home_page_message" :"Press the button to move to the second page",
+  "second_page_message" : "You are now on the second page"
+}
